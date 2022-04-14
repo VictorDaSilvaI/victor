@@ -1,1 +1,1 @@
-<a href="https://twitter.com/" target="_blank"><img src="https://user-images.githubusercontent.com/84397062/163429435-e5538559-dd59-4309-bee9-56eae59ca717.svg" width="100%" height="100%"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/"><img src="https://user-images.githubusercontent.com/84397062/163429435-e5538559-dd59-4309-bee9-56eae59ca717.svg" width="100%" height="100%"></a>
